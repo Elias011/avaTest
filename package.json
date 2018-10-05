@@ -1,0 +1,15 @@
+{
+  "name": "testwithava",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava -v",
+    "test:watch": "ava -v -w"
+  },
+  "author": "@pabagan",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
+}
